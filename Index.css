@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+   background-image:url("G.jpg");
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: DodgerBlue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: violet;
+}
+
+.active {
+  background-color: violet;
+}
+
+body {
+  background-color: yellow;
+}
+
+p {
+    color: DodgerBlue;
+    font: Verdana, sans-serif;
+    font-size: 30px; 
+	}
+
+h1	{
+	color: Violet;
+	font-size: 55px;
+	font: Snell Roundhand, cursive;
+	}
+
+
